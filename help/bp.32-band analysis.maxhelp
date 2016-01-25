@@ -3,9 +3,9 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 0,
-			"revision" : 3,
-			"architecture" : "x86",
+			"minor" : 1,
+			"revision" : 0,
+			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
@@ -111,9 +111,9 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 7,
-							"minor" : 0,
-							"revision" : 3,
-							"architecture" : "x86",
+							"minor" : 1,
+							"revision" : 0,
+							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
@@ -162,7 +162,7 @@
 									"numoutlets" : 5,
 									"offset" : [ 0.0, 0.0 ],
 									"outlettype" : [ "signal", "signal", "signal", "signal", "signal" ],
-									"patching_rect" : [ 537.0, 139.0, 137.0, 116.0 ],
+									"patching_rect" : [ 448.0, 131.0, 137.0, 116.0 ],
 									"varname" : "bp.LFO",
 									"viewvisibility" : 1
 								}
@@ -187,9 +187,9 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 7,
-											"minor" : 0,
-											"revision" : 3,
-											"architecture" : "x86",
+											"minor" : 1,
+											"revision" : 0,
+											"architecture" : "x64",
 											"modernui" : 1
 										}
 ,
@@ -540,7 +540,7 @@
 ,
 													"style" : "",
 													"text" : "autopattr",
-													"varname" : "u462003453"
+													"varname" : "u640001405"
 												}
 
 											}
@@ -995,9 +995,9 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 7,
-															"minor" : 0,
-															"revision" : 3,
-															"architecture" : "x86",
+															"minor" : 1,
+															"revision" : 0,
+															"architecture" : "x64",
 															"modernui" : 1
 														}
 ,
@@ -2395,7 +2395,7 @@
 																	"destination" : [ "obj-3", 2 ],
 																	"disabled" : 0,
 																	"hidden" : 0,
-																	"midpoints" : [ 1073.5, 378.5, 271.928589, 378.5 ],
+																	"midpoints" : [ 1073.5, 378.5, 271.928574, 378.5 ],
 																	"source" : [ "obj-38", 0 ]
 																}
 
@@ -2425,7 +2425,7 @@
 																	"destination" : [ "obj-34", 2 ],
 																	"disabled" : 0,
 																	"hidden" : 0,
-																	"midpoints" : [ 1073.5, 361.5, 532.642822, 361.5 ],
+																	"midpoints" : [ 1073.5, 361.5, 532.642853, 361.5 ],
 																	"source" : [ "obj-38", 0 ]
 																}
 
@@ -2485,7 +2485,7 @@
 																	"destination" : [ "obj-75", 2 ],
 																	"disabled" : 0,
 																	"hidden" : 0,
-																	"midpoints" : [ 1073.5, 361.5, 153.214294, 361.5 ],
+																	"midpoints" : [ 1073.5, 361.5, 153.214287, 361.5 ],
 																	"source" : [ "obj-38", 0 ]
 																}
 
@@ -2705,7 +2705,7 @@
 																	"destination" : [ "obj-3", 1 ],
 																	"disabled" : 0,
 																	"hidden" : 0,
-																	"midpoints" : [ 911.5, 381.5, 256.428589, 381.5 ],
+																	"midpoints" : [ 911.5, 381.5, 256.428574, 381.5 ],
 																	"source" : [ "obj-39", 0 ]
 																}
 
@@ -2735,7 +2735,7 @@
 																	"destination" : [ "obj-34", 1 ],
 																	"disabled" : 0,
 																	"hidden" : 0,
-																	"midpoints" : [ 911.5, 364.5, 517.142822, 364.5 ],
+																	"midpoints" : [ 911.5, 364.5, 517.142853, 364.5 ],
 																	"source" : [ "obj-39", 0 ]
 																}
 
@@ -2785,7 +2785,7 @@
 																	"destination" : [ "obj-75", 1 ],
 																	"disabled" : 0,
 																	"hidden" : 0,
-																	"midpoints" : [ 911.5, 364.5, 137.714294, 364.5 ],
+																	"midpoints" : [ 911.5, 364.5, 137.714287, 364.5 ],
 																	"source" : [ "obj-39", 0 ]
 																}
 
@@ -2945,9 +2945,9 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 7,
-															"minor" : 0,
-															"revision" : 3,
-															"architecture" : "x86",
+															"minor" : 1,
+															"revision" : 0,
+															"architecture" : "x64",
 															"modernui" : 1
 														}
 ,
@@ -4976,9 +4976,9 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 7,
-											"minor" : 0,
-											"revision" : 3,
-											"architecture" : "x86",
+											"minor" : 1,
+											"revision" : 0,
+											"architecture" : "x64",
 											"modernui" : 1
 										}
 ,
@@ -5140,7 +5140,7 @@
 ,
 													"style" : "",
 													"text" : "autopattr",
-													"varname" : "u186003452"
+													"varname" : "u153001404"
 												}
 
 											}
@@ -5366,7 +5366,7 @@
 									"destination" : [ "obj-3", 1 ],
 									"disabled" : 0,
 									"hidden" : 0,
-									"midpoints" : [ 546.5, 258.0, 300.0, 258.0, 300.0, 111.0, 106.5, 111.0 ],
+									"midpoints" : [ 457.5, 258.0, 300.0, 258.0, 300.0, 111.0, 106.5, 111.0 ],
 									"source" : [ "obj-4", 0 ]
 								}
 
@@ -5426,72 +5426,74 @@
 			}
  ],
 		"parameters" : 		{
+			"obj-2::obj-1::obj-26" : [ "Gain", "Gain", 0 ],
+			"obj-2::obj-4::obj-20" : [ "Frequency", "Freq", 0 ],
+			"obj-2::obj-3::obj-331" : [ "WaveformCloud", "Waveform", 0 ],
+			"obj-2::obj-1::obj-45" : [ "Slide", "Slide", 0 ],
+			"obj-2::obj-7::obj-129" : [ "Tempo", "Tempo", 0 ],
+			"obj-2::obj-3::obj-51" : [ "Fatness", "Fatness", 0 ],
+			"obj-2::obj-1::obj-46" : [ "Q", "Q", 0 ],
+			"obj-2::obj-2::obj-56" : [ "OutputChannel", "OutputChannel", 0 ],
+			"obj-2::obj-3::obj-106" : [ "CV3", "CV3", 0 ],
+			"obj-2::obj-2::obj-52" : [ "Level", "Level", 0 ],
+			"obj-2::obj-2::obj-22" : [ "Mute[1]", "Mute", 0 ],
+			"obj-2::obj-3::obj-45" : [ "TimeMode", "TimeMode", 1 ],
 			"obj-2::obj-7::obj-76" : [ "Transport", "Transport", 0 ],
 			"obj-2::obj-1::obj-49" : [ "quantize", "quantize", 0 ],
-			"obj-2::obj-3::obj-45" : [ "TimeMode", "TimeMode", 1 ],
-			"obj-2::obj-3::obj-129" : [ "CV2", "CV2", 0 ],
-			"obj-2::obj-3::obj-20" : [ "Mute", "Mute", 0 ],
-			"obj-2::obj-2::obj-22" : [ "Mute[1]", "Mute", 0 ],
-			"obj-2::obj-3::obj-51" : [ "Fatness", "Fatness", 0 ],
-			"obj-2::obj-1::obj-26" : [ "Gain", "Gain", 0 ],
-			"obj-2::obj-4::obj-12" : [ "Mute[2]", "Mute", 0 ],
-			"obj-2::obj-2::obj-56" : [ "OutputChannel", "OutputChannel", 0 ],
-			"obj-2::obj-1::obj-25" : [ "Base", "Base", 0 ],
-			"obj-2::obj-3::obj-106" : [ "CV3", "CV3", 0 ],
-			"obj-2::obj-1::obj-46" : [ "Q", "Q", 0 ],
-			"obj-2::obj-1::obj-45" : [ "Slide", "Slide", 0 ],
-			"obj-2::obj-1::obj-69" : [ "Lock", "Lock", 0 ],
-			"obj-2::obj-1::obj-33::obj-36::obj-2" : [ "pastebang", "pastebang", 0 ],
 			"obj-2::obj-3::obj-24" : [ "Freq", "Freq", 0 ],
 			"obj-2::obj-3::obj-107" : [ "Linear", "Linear", 0 ],
-			"obj-2::obj-7::obj-129" : [ "Tempo", "Tempo", 0 ],
-			"obj-2::obj-3::obj-331" : [ "WaveformCloud", "Waveform", 0 ],
-			"obj-2::obj-4::obj-20" : [ "Frequency", "Freq", 0 ],
-			"obj-2::obj-2::obj-52" : [ "Level", "Level", 0 ],
+			"obj-2::obj-1::obj-69" : [ "Lock", "Lock", 0 ],
+			"obj-2::obj-1::obj-25" : [ "Base", "Base", 0 ],
 			"obj-2::obj-2::obj-55" : [ "DSP", "DSP", 0 ],
+			"obj-2::obj-4::obj-12" : [ "Mute[2]", "Mute", 0 ],
+			"obj-2::obj-1::obj-33::obj-36::obj-2" : [ "pastebang", "pastebang", 0 ],
 			"obj-2::obj-3::obj-46" : [ "Offset", "Offset", 0 ],
-			"obj-2::obj-1::obj-51" : [ "divide", "divide", 0 ]
+			"obj-2::obj-1::obj-51" : [ "divide", "divide", 0 ],
+			"obj-2::obj-3::obj-129" : [ "CV2", "CV2", 0 ],
+			"obj-2::obj-3::obj-20" : [ "Mute", "Mute", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
 				"name" : "bp.Cloud.maxpat",
-				"bootpath" : "C74:/packages/Beap/clippings/BEAP/Oscillator",
+				"bootpath" : "C74:/packages/BEAP/clippings/BEAP/Oscillator",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "bp.Stereo.maxpat",
-				"bootpath" : "C74:/packages/Beap/clippings/BEAP/Output",
+				"bootpath" : "C74:/packages/BEAP/clippings/BEAP/Output",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "a_chan.maxpat",
-				"bootpath" : "C74:/packages/Beap/misc",
+				"bootpath" : "C74:/packages/BEAP/misc",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pastebang.maxpat",
-				"bootpath" : "C74:/packages/Beap/misc",
+				"bootpath" : "C74:/packages/BEAP/misc",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "bp.LFO.maxpat",
-				"bootpath" : "C74:/packages/Beap/clippings/BEAP/LFO",
+				"bootpath" : "C74:/packages/BEAP/clippings/BEAP/LFO",
 				"type" : "JSON",
 				"implicit" : 1
 			}
  ],
-		"embedsnapshot" : 1,
+		"autosave" : 0,
 		"snapshot" : 		{
 			"filetype" : "C74Snapshot",
-			"version" : 1,
-			"name" : "bp.32-band analysis.maxhelp",
-			"origin" : "bp.32-band analysis.maxhelp",
-			"type" : "patcher",
+			"version" : 2,
+			"minorversion" : 0,
+			"name" : "snapshotlist",
+			"origin" : "jpatcher",
+			"type" : "list",
 			"subtype" : "Undefined",
+			"embed" : 1,
 			"snapshot" : 			{
 				"name" : "bp.32-band analysis.maxhelp",
 				"valuedictionary" : 				{
@@ -5524,6 +5526,54 @@
 
 				}
 
+			}
+,
+			"snapshotlist" : 			{
+				"current_snapshot" : 0,
+				"entries" : [ 					{
+						"filetype" : "C74Snapshot",
+						"version" : 1,
+						"name" : "bp.32-band analysis.maxhelp",
+						"origin" : "bp.32-band analysis.maxhelp",
+						"type" : "patcher",
+						"subtype" : "Undefined",
+						"snapshot" : 						{
+							"name" : "bp.32-band analysis.maxhelp",
+							"valuedictionary" : 							{
+								"parameter_values" : 								{
+									"Base" : 60.0,
+									"CV2" : 100.0,
+									"CV3" : 0.0,
+									"DSP" : 0.0,
+									"Fatness" : 2.366432,
+									"Freq" : 6763.828125,
+									"Frequency" : 23.74876,
+									"Gain" : 100.0,
+									"Level" : -31.293474,
+									"Linear" : 0.0,
+									"Lock" : 0.0,
+									"Mute" : 0.0,
+									"Mute[1]" : 0.0,
+									"Mute[2]" : 0.0,
+									"Offset" : 0.0,
+									"OutputChannel" : 0.0,
+									"Q" : 15.748032,
+									"Slide" : 10.0,
+									"Tempo" : 80.0,
+									"Transport" : 1.0,
+									"WaveformCloud" : 0.0,
+									"divide" : 0.0,
+									"quantize" : 1.0,
+									"TimeMode" : 1.0
+								}
+
+							}
+
+						}
+,
+						"embed" : 0
+					}
+ ]
 			}
 
 		}
